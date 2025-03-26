@@ -7,6 +7,77 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		71634FC72D93F6F9007E411A /* 旧_以西结书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FAE2D93F6F9007E411A /* 旧_以西结书.txt */; };
+		71634FC82D93F6F9007E411A /* 旧_约珥书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB02D93F6F9007E411A /* 旧_约珥书.txt */; };
+		71634FC92D93F6F9007E411A /* 旧_耶利米哀歌.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA92D93F6F9007E411A /* 旧_耶利米哀歌.txt */; };
+		71634FCA2D93F6F9007E411A /* 旧_申命记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA42D93F6F9007E411A /* 旧_申命记.txt */; };
+		71634FCB2D93F6F9007E411A /* 旧_约书亚记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB22D93F6F9007E411A /* 旧_约书亚记.txt */; };
+		71634FCC2D93F6F9007E411A /* 约翰壹书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC62D93F6F9007E411A /* 约翰壹书.txt */; };
+		71634FCD2D93F6F9007E411A /* 旧_约伯记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FAF2D93F6F9007E411A /* 旧_约伯记.txt */; };
+		71634FCE2D93F6F9007E411A /* 旧_俄巴底亚书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F922D93F6F9007E411A /* 旧_俄巴底亚书.txt */; };
+		71634FCF2D93F6F9007E411A /* 路加福音.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB42D93F6F9007E411A /* 路加福音.txt */; };
+		71634FD02D93F6F9007E411A /* 旧_但以理书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F912D93F6F9007E411A /* 旧_但以理书.txt */; };
+		71634FD12D93F6F9007E411A /* 旧_箴言.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB32D93F6F9007E411A /* 旧_箴言.txt */; };
+		71634FD22D93F6F9007E411A /* 旧_撒母耳记下.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA32D93F6F9007E411A /* 旧_撒母耳记下.txt */; };
+		71634FD32D93F6F9007E411A /* 旧_阿摩司书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F8D2D93F6F9007E411A /* 旧_阿摩司书.txt */; };
+		71634FD42D93F6F9007E411A /* 旧_尼希米记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA02D93F6F9007E411A /* 旧_尼希米记.txt */; };
+		71634FD52D93F6F9007E411A /* 旧_耶利米书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FAA2D93F6F9007E411A /* 旧_耶利米书.txt */; };
+		71634FD62D93F6F9007E411A /* 马可福音.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB62D93F6F9007E411A /* 马可福音.txt */; };
+		71634FD72D93F6F9007E411A /* 犹大书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC22D93F6F9007E411A /* 犹大书.txt */; };
+		71634FD82D93F6F9007E411A /* 启示录.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB82D93F6F9007E411A /* 启示录.txt */; };
+		71634FD92D93F6F9007E411A /* 约翰叁书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC52D93F6F9007E411A /* 约翰叁书.txt */; };
+		71634FDA2D93F6F9007E411A /* 腓利门书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F882D93F6F9007E411A /* 腓利门书.txt */; };
+		71634FDB2D93F6F9007E411A /* 雅各书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC02D93F6F9007E411A /* 雅各书.txt */; };
+		71634FDC2D93F6F9007E411A /* 旧_以赛亚书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FAB2D93F6F9007E411A /* 旧_以赛亚书.txt */; };
+		71634FDD2D93F6F9007E411A /* 旧_历代志下.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F972D93F6F9007E411A /* 旧_历代志下.txt */; };
+		71634FDE2D93F6F9007E411A /* 旧_弥迦书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F9D2D93F6F9007E411A /* 旧_弥迦书.txt */; };
+		71634FDF2D93F6F9007E411A /* 旧_何西阿书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F952D93F6F9007E411A /* 旧_何西阿书.txt */; };
+		71634FE02D93F6F9007E411A /* 约翰福音.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC42D93F6F9007E411A /* 约翰福音.txt */; };
+		71634FE12D93F6F9007E411A /* 提多书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FBA2D93F6F9007E411A /* 提多书.txt */; };
+		71634FE22D93F6F9007E411A /* 马太福音.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB72D93F6F9007E411A /* 马太福音.txt */; };
+		71634FE32D93F6F9007E411A /* 约翰贰书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC32D93F6F9007E411A /* 约翰贰书.txt */; };
+		71634FE42D93F6F9007E411A /* 旧_那鸿书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F9F2D93F6F9007E411A /* 旧_那鸿书.txt */; };
+		71634FE52D93F6F9007E411A /* 旧_列王纪上.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F992D93F6F9007E411A /* 旧_列王纪上.txt */; };
+		71634FE62D93F6F9007E411A /* 帖撒罗尼迦后书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FBD2D93F6F9007E411A /* 帖撒罗尼迦后书.txt */; };
+		71634FE72D93F6F9007E411A /* 彼得前书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F862D93F6F9007E411A /* 彼得前书.txt */; };
+		71634FE82D93F6F9007E411A /* 提摩太前书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FBC2D93F6F9007E411A /* 提摩太前书.txt */; };
+		71634FE92D93F6F9007E411A /* 希伯来书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FBF2D93F6F9007E411A /* 希伯来书.txt */; };
+		71634FEA2D93F6F9007E411A /* 旧_出埃及记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F8E2D93F6F9007E411A /* 旧_出埃及记.txt */; };
+		71634FEB2D93F6F9007E411A /* 旧_创世记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F902D93F6F9007E411A /* 旧_创世记.txt */; };
+		71634FEC2D93F6F9007E411A /* 彼得后书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F852D93F6F9007E411A /* 彼得后书.txt */; };
+		71634FED2D93F6F9007E411A /* 旧_玛拉基书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F9C2D93F6F9007E411A /* 旧_玛拉基书.txt */; };
+		71634FEE2D93F6F9007E411A /* 以弗所书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FC12D93F6F9007E411A /* 以弗所书.txt */; };
+		71634FEF2D93F6F9007E411A /* 腓立比书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F872D93F6F9007E411A /* 腓立比书.txt */; };
+		71634FF02D93F6F9007E411A /* 帖撒罗尼迦前书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FBE2D93F6F9007E411A /* 帖撒罗尼迦前书.txt */; };
+		71634FF12D93F6F9007E411A /* 歌罗西书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F8B2D93F6F9007E411A /* 歌罗西书.txt */; };
+		71634FF22D93F6F9007E411A /* 旧_利未记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F982D93F6F9007E411A /* 旧_利未记.txt */; };
+		71634FF32D93F6F9007E411A /* 旧_雅歌.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA82D93F6F9007E411A /* 旧_雅歌.txt */; };
+		71634FF42D93F6F9007E411A /* 旧_哈巴谷书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F932D93F6F9007E411A /* 旧_哈巴谷书.txt */; };
+		71634FF52D93F6F9007E411A /* 旧_哈该书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F942D93F6F9007E411A /* 旧_哈该书.txt */; };
+		71634FF62D93F6F9007E411A /* 旧_撒迦利亚书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA12D93F6F9007E411A /* 旧_撒迦利亚书.txt */; };
+		71634FF72D93F6F9007E411A /* 旧_路得记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F9B2D93F6F9007E411A /* 旧_路得记.txt */; };
+		71634FF82D93F6F9007E411A /* 加拉太书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F8C2D93F6F9007E411A /* 加拉太书.txt */; };
+		71634FF92D93F6F9007E411A /* 旧_列王纪下.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F9A2D93F6F9007E411A /* 旧_列王纪下.txt */; };
+		71634FFA2D93F6F9007E411A /* 旧_民数记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F9E2D93F6F9007E411A /* 旧_民数记.txt */; };
+		71634FFB2D93F6F9007E411A /* 旧_以斯帖记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FAD2D93F6F9007E411A /* 旧_以斯帖记.txt */; };
+		71634FFC2D93F6F9007E411A /* 罗马书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB52D93F6F9007E411A /* 罗马书.txt */; };
+		71634FFD2D93F6F9007E411A /* 旧_历代志上.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F962D93F6F9007E411A /* 旧_历代志上.txt */; };
+		71634FFE2D93F6F9007E411A /* 使徒行传.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB92D93F6F9007E411A /* 使徒行传.txt */; };
+		71634FFF2D93F6F9007E411A /* 旧_以斯拉记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FAC2D93F6F9007E411A /* 旧_以斯拉记.txt */; };
+		716350002D93F6F9007E411A /* 旧_约拿书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FB12D93F6F9007E411A /* 旧_约拿书.txt */; };
+		716350012D93F6F9007E411A /* 旧_诗篇.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA52D93F6F9007E411A /* 旧_诗篇.txt */; };
+		716350022D93F6F9007E411A /* 旧_撒母耳记上.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA22D93F6F9007E411A /* 旧_撒母耳记上.txt */; };
+		716350032D93F6F9007E411A /* 提摩太后书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FBB2D93F6F9007E411A /* 提摩太后书.txt */; };
+		716350042D93F6F9007E411A /* 旧_士师记.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA62D93F6F9007E411A /* 旧_士师记.txt */; };
+		716350052D93F6F9007E411A /* 旧_西番雅书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634FA72D93F6F9007E411A /* 旧_西番雅书.txt */; };
+		716350062D93F6F9007E411A /* 旧_传道书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F8F2D93F6F9007E411A /* 旧_传道书.txt */; };
+		716350072D93F6F9007E411A /* 哥林多前书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F8A2D93F6F9007E411A /* 哥林多前书.txt */; };
+		716350082D93F6F9007E411A /* 哥林多后书.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71634F892D93F6F9007E411A /* 哥林多后书.txt */; };
+		7163500A2D93F8E1007E411A /* DirectoryOfFYModel.json in Resources */ = {isa = PBXBuildFile; fileRef = 716350092D93F8E1007E411A /* DirectoryOfFYModel.json */; };
+		7163500C2D93F8F7007E411A /* FYModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7163500B2D93F8F7007E411A /* FYModel.swift */; };
+		7163500F2D93FB65007E411A /* DZMMainCellCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7163500D2D93FB65007E411A /* DZMMainCellCell.swift */; };
+		716350102D93FB65007E411A /* DZMMainCellCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7163500E2D93FB65007E411A /* DZMMainCellCell.xib */; };
+		71889BD12D92BE040069A490 /* 求魔 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 71889BD02D92BE040069A490 /* 求魔 2.txt */; };
 		AF0750AA228133CF00786ADF /* DZMReadHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0750A9228133CF00786ADF /* DZMReadHomeView.swift */; };
 		AF0750AC2281349D00786ADF /* DZMReadHomeViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0750AB2281349D00786ADF /* DZMReadHomeViewCell.swift */; };
 		AF0A61DB228BF69100AC6E74 /* DZMReadTextParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0A61DA228BF69100AC6E74 /* DZMReadTextParser.swift */; };
@@ -105,6 +176,77 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		71634F852D93F6F9007E411A /* 彼得后书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "彼得后书.txt"; sourceTree = "<group>"; };
+		71634F862D93F6F9007E411A /* 彼得前书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "彼得前书.txt"; sourceTree = "<group>"; };
+		71634F872D93F6F9007E411A /* 腓立比书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "腓立比书.txt"; sourceTree = "<group>"; };
+		71634F882D93F6F9007E411A /* 腓利门书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "腓利门书.txt"; sourceTree = "<group>"; };
+		71634F892D93F6F9007E411A /* 哥林多后书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "哥林多后书.txt"; sourceTree = "<group>"; };
+		71634F8A2D93F6F9007E411A /* 哥林多前书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "哥林多前书.txt"; sourceTree = "<group>"; };
+		71634F8B2D93F6F9007E411A /* 歌罗西书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "歌罗西书.txt"; sourceTree = "<group>"; };
+		71634F8C2D93F6F9007E411A /* 加拉太书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "加拉太书.txt"; sourceTree = "<group>"; };
+		71634F8D2D93F6F9007E411A /* 旧_阿摩司书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_阿摩司书.txt"; sourceTree = "<group>"; };
+		71634F8E2D93F6F9007E411A /* 旧_出埃及记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_出埃及记.txt"; sourceTree = "<group>"; };
+		71634F8F2D93F6F9007E411A /* 旧_传道书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_传道书.txt"; sourceTree = "<group>"; };
+		71634F902D93F6F9007E411A /* 旧_创世记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_创世记.txt"; sourceTree = "<group>"; };
+		71634F912D93F6F9007E411A /* 旧_但以理书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_但以理书.txt"; sourceTree = "<group>"; };
+		71634F922D93F6F9007E411A /* 旧_俄巴底亚书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_俄巴底亚书.txt"; sourceTree = "<group>"; };
+		71634F932D93F6F9007E411A /* 旧_哈巴谷书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_哈巴谷书.txt"; sourceTree = "<group>"; };
+		71634F942D93F6F9007E411A /* 旧_哈该书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_哈该书.txt"; sourceTree = "<group>"; };
+		71634F952D93F6F9007E411A /* 旧_何西阿书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_何西阿书.txt"; sourceTree = "<group>"; };
+		71634F962D93F6F9007E411A /* 旧_历代志上.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_历代志上.txt"; sourceTree = "<group>"; };
+		71634F972D93F6F9007E411A /* 旧_历代志下.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_历代志下.txt"; sourceTree = "<group>"; };
+		71634F982D93F6F9007E411A /* 旧_利未记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_利未记.txt"; sourceTree = "<group>"; };
+		71634F992D93F6F9007E411A /* 旧_列王纪上.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_列王纪上.txt"; sourceTree = "<group>"; };
+		71634F9A2D93F6F9007E411A /* 旧_列王纪下.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_列王纪下.txt"; sourceTree = "<group>"; };
+		71634F9B2D93F6F9007E411A /* 旧_路得记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_路得记.txt"; sourceTree = "<group>"; };
+		71634F9C2D93F6F9007E411A /* 旧_玛拉基书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_玛拉基书.txt"; sourceTree = "<group>"; };
+		71634F9D2D93F6F9007E411A /* 旧_弥迦书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_弥迦书.txt"; sourceTree = "<group>"; };
+		71634F9E2D93F6F9007E411A /* 旧_民数记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_民数记.txt"; sourceTree = "<group>"; };
+		71634F9F2D93F6F9007E411A /* 旧_那鸿书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_那鸿书.txt"; sourceTree = "<group>"; };
+		71634FA02D93F6F9007E411A /* 旧_尼希米记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_尼希米记.txt"; sourceTree = "<group>"; };
+		71634FA12D93F6F9007E411A /* 旧_撒迦利亚书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_撒迦利亚书.txt"; sourceTree = "<group>"; };
+		71634FA22D93F6F9007E411A /* 旧_撒母耳记上.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_撒母耳记上.txt"; sourceTree = "<group>"; };
+		71634FA32D93F6F9007E411A /* 旧_撒母耳记下.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_撒母耳记下.txt"; sourceTree = "<group>"; };
+		71634FA42D93F6F9007E411A /* 旧_申命记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_申命记.txt"; sourceTree = "<group>"; };
+		71634FA52D93F6F9007E411A /* 旧_诗篇.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_诗篇.txt"; sourceTree = "<group>"; };
+		71634FA62D93F6F9007E411A /* 旧_士师记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_士师记.txt"; sourceTree = "<group>"; };
+		71634FA72D93F6F9007E411A /* 旧_西番雅书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_西番雅书.txt"; sourceTree = "<group>"; };
+		71634FA82D93F6F9007E411A /* 旧_雅歌.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_雅歌.txt"; sourceTree = "<group>"; };
+		71634FA92D93F6F9007E411A /* 旧_耶利米哀歌.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_耶利米哀歌.txt"; sourceTree = "<group>"; };
+		71634FAA2D93F6F9007E411A /* 旧_耶利米书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_耶利米书.txt"; sourceTree = "<group>"; };
+		71634FAB2D93F6F9007E411A /* 旧_以赛亚书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_以赛亚书.txt"; sourceTree = "<group>"; };
+		71634FAC2D93F6F9007E411A /* 旧_以斯拉记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_以斯拉记.txt"; sourceTree = "<group>"; };
+		71634FAD2D93F6F9007E411A /* 旧_以斯帖记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_以斯帖记.txt"; sourceTree = "<group>"; };
+		71634FAE2D93F6F9007E411A /* 旧_以西结书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_以西结书.txt"; sourceTree = "<group>"; };
+		71634FAF2D93F6F9007E411A /* 旧_约伯记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_约伯记.txt"; sourceTree = "<group>"; };
+		71634FB02D93F6F9007E411A /* 旧_约珥书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_约珥书.txt"; sourceTree = "<group>"; };
+		71634FB12D93F6F9007E411A /* 旧_约拿书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_约拿书.txt"; sourceTree = "<group>"; };
+		71634FB22D93F6F9007E411A /* 旧_约书亚记.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_约书亚记.txt"; sourceTree = "<group>"; };
+		71634FB32D93F6F9007E411A /* 旧_箴言.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "旧_箴言.txt"; sourceTree = "<group>"; };
+		71634FB42D93F6F9007E411A /* 路加福音.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "路加福音.txt"; sourceTree = "<group>"; };
+		71634FB52D93F6F9007E411A /* 罗马书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "罗马书.txt"; sourceTree = "<group>"; };
+		71634FB62D93F6F9007E411A /* 马可福音.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "马可福音.txt"; sourceTree = "<group>"; };
+		71634FB72D93F6F9007E411A /* 马太福音.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "马太福音.txt"; sourceTree = "<group>"; };
+		71634FB82D93F6F9007E411A /* 启示录.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "启示录.txt"; sourceTree = "<group>"; };
+		71634FB92D93F6F9007E411A /* 使徒行传.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "使徒行传.txt"; sourceTree = "<group>"; };
+		71634FBA2D93F6F9007E411A /* 提多书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "提多书.txt"; sourceTree = "<group>"; };
+		71634FBB2D93F6F9007E411A /* 提摩太后书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "提摩太后书.txt"; sourceTree = "<group>"; };
+		71634FBC2D93F6F9007E411A /* 提摩太前书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "提摩太前书.txt"; sourceTree = "<group>"; };
+		71634FBD2D93F6F9007E411A /* 帖撒罗尼迦后书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "帖撒罗尼迦后书.txt"; sourceTree = "<group>"; };
+		71634FBE2D93F6F9007E411A /* 帖撒罗尼迦前书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "帖撒罗尼迦前书.txt"; sourceTree = "<group>"; };
+		71634FBF2D93F6F9007E411A /* 希伯来书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "希伯来书.txt"; sourceTree = "<group>"; };
+		71634FC02D93F6F9007E411A /* 雅各书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "雅各书.txt"; sourceTree = "<group>"; };
+		71634FC12D93F6F9007E411A /* 以弗所书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "以弗所书.txt"; sourceTree = "<group>"; };
+		71634FC22D93F6F9007E411A /* 犹大书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "犹大书.txt"; sourceTree = "<group>"; };
+		71634FC32D93F6F9007E411A /* 约翰贰书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "约翰贰书.txt"; sourceTree = "<group>"; };
+		71634FC42D93F6F9007E411A /* 约翰福音.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "约翰福音.txt"; sourceTree = "<group>"; };
+		71634FC52D93F6F9007E411A /* 约翰叁书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "约翰叁书.txt"; sourceTree = "<group>"; };
+		71634FC62D93F6F9007E411A /* 约翰壹书.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "约翰壹书.txt"; sourceTree = "<group>"; };
+		716350092D93F8E1007E411A /* DirectoryOfFYModel.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = DirectoryOfFYModel.json; sourceTree = "<group>"; };
+		7163500B2D93F8F7007E411A /* FYModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FYModel.swift; sourceTree = "<group>"; };
+		7163500D2D93FB65007E411A /* DZMMainCellCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DZMMainCellCell.swift; sourceTree = "<group>"; };
+		7163500E2D93FB65007E411A /* DZMMainCellCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DZMMainCellCell.xib; sourceTree = "<group>"; };
+		71889BD02D92BE040069A490 /* 求魔 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "求魔 2.txt"; sourceTree = "<group>"; };
 		AF0750A9228133CF00786ADF /* DZMReadHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DZMReadHomeView.swift; sourceTree = "<group>"; };
 		AF0750AB2281349D00786ADF /* DZMReadHomeViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DZMReadHomeViewCell.swift; sourceTree = "<group>"; };
 		AF0A61DA228BF69100AC6E74 /* DZMReadTextParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DZMReadTextParser.swift; sourceTree = "<group>"; };
@@ -277,9 +419,80 @@
 				AF48FA9B2266D08400850378 /* LaunchScreen.storyboard */,
 				AF48FA9E2266D08400850378 /* Info.plist */,
 				AF48FAD12266D26A00850378 /* DZMMainController.swift */,
+				7163500D2D93FB65007E411A /* DZMMainCellCell.swift */,
+				7163500E2D93FB65007E411A /* DZMMainCellCell.xib */,
 				AF48FAC12266D15C00850378 /* DZMeBookRead-Bridging-Header.h */,
+				7163500B2D93F8F7007E411A /* FYModel.swift */,
+				716350092D93F8E1007E411A /* DirectoryOfFYModel.json */,
 				AF5952FD2269D57D007DF477 /* 求魔.txt */,
+				71889BD02D92BE040069A490 /* 求魔 2.txt */,
 				AF203595261EF37000C47E74 /* en.txt */,
+				71634F852D93F6F9007E411A /* 彼得后书.txt */,
+				71634F862D93F6F9007E411A /* 彼得前书.txt */,
+				71634F872D93F6F9007E411A /* 腓立比书.txt */,
+				71634F882D93F6F9007E411A /* 腓利门书.txt */,
+				71634F892D93F6F9007E411A /* 哥林多后书.txt */,
+				71634F8A2D93F6F9007E411A /* 哥林多前书.txt */,
+				71634F8B2D93F6F9007E411A /* 歌罗西书.txt */,
+				71634F8C2D93F6F9007E411A /* 加拉太书.txt */,
+				71634F8D2D93F6F9007E411A /* 旧_阿摩司书.txt */,
+				71634F8E2D93F6F9007E411A /* 旧_出埃及记.txt */,
+				71634F8F2D93F6F9007E411A /* 旧_传道书.txt */,
+				71634F902D93F6F9007E411A /* 旧_创世记.txt */,
+				71634F912D93F6F9007E411A /* 旧_但以理书.txt */,
+				71634F922D93F6F9007E411A /* 旧_俄巴底亚书.txt */,
+				71634F932D93F6F9007E411A /* 旧_哈巴谷书.txt */,
+				71634F942D93F6F9007E411A /* 旧_哈该书.txt */,
+				71634F952D93F6F9007E411A /* 旧_何西阿书.txt */,
+				71634F962D93F6F9007E411A /* 旧_历代志上.txt */,
+				71634F972D93F6F9007E411A /* 旧_历代志下.txt */,
+				71634F982D93F6F9007E411A /* 旧_利未记.txt */,
+				71634F992D93F6F9007E411A /* 旧_列王纪上.txt */,
+				71634F9A2D93F6F9007E411A /* 旧_列王纪下.txt */,
+				71634F9B2D93F6F9007E411A /* 旧_路得记.txt */,
+				71634F9C2D93F6F9007E411A /* 旧_玛拉基书.txt */,
+				71634F9D2D93F6F9007E411A /* 旧_弥迦书.txt */,
+				71634F9E2D93F6F9007E411A /* 旧_民数记.txt */,
+				71634F9F2D93F6F9007E411A /* 旧_那鸿书.txt */,
+				71634FA02D93F6F9007E411A /* 旧_尼希米记.txt */,
+				71634FA12D93F6F9007E411A /* 旧_撒迦利亚书.txt */,
+				71634FA22D93F6F9007E411A /* 旧_撒母耳记上.txt */,
+				71634FA32D93F6F9007E411A /* 旧_撒母耳记下.txt */,
+				71634FA42D93F6F9007E411A /* 旧_申命记.txt */,
+				71634FA52D93F6F9007E411A /* 旧_诗篇.txt */,
+				71634FA62D93F6F9007E411A /* 旧_士师记.txt */,
+				71634FA72D93F6F9007E411A /* 旧_西番雅书.txt */,
+				71634FA82D93F6F9007E411A /* 旧_雅歌.txt */,
+				71634FA92D93F6F9007E411A /* 旧_耶利米哀歌.txt */,
+				71634FAA2D93F6F9007E411A /* 旧_耶利米书.txt */,
+				71634FAB2D93F6F9007E411A /* 旧_以赛亚书.txt */,
+				71634FAC2D93F6F9007E411A /* 旧_以斯拉记.txt */,
+				71634FAD2D93F6F9007E411A /* 旧_以斯帖记.txt */,
+				71634FAE2D93F6F9007E411A /* 旧_以西结书.txt */,
+				71634FAF2D93F6F9007E411A /* 旧_约伯记.txt */,
+				71634FB02D93F6F9007E411A /* 旧_约珥书.txt */,
+				71634FB12D93F6F9007E411A /* 旧_约拿书.txt */,
+				71634FB22D93F6F9007E411A /* 旧_约书亚记.txt */,
+				71634FB32D93F6F9007E411A /* 旧_箴言.txt */,
+				71634FB42D93F6F9007E411A /* 路加福音.txt */,
+				71634FB52D93F6F9007E411A /* 罗马书.txt */,
+				71634FB62D93F6F9007E411A /* 马可福音.txt */,
+				71634FB72D93F6F9007E411A /* 马太福音.txt */,
+				71634FB82D93F6F9007E411A /* 启示录.txt */,
+				71634FB92D93F6F9007E411A /* 使徒行传.txt */,
+				71634FBA2D93F6F9007E411A /* 提多书.txt */,
+				71634FBB2D93F6F9007E411A /* 提摩太后书.txt */,
+				71634FBC2D93F6F9007E411A /* 提摩太前书.txt */,
+				71634FBD2D93F6F9007E411A /* 帖撒罗尼迦后书.txt */,
+				71634FBE2D93F6F9007E411A /* 帖撒罗尼迦前书.txt */,
+				71634FBF2D93F6F9007E411A /* 希伯来书.txt */,
+				71634FC02D93F6F9007E411A /* 雅各书.txt */,
+				71634FC12D93F6F9007E411A /* 以弗所书.txt */,
+				71634FC22D93F6F9007E411A /* 犹大书.txt */,
+				71634FC32D93F6F9007E411A /* 约翰贰书.txt */,
+				71634FC42D93F6F9007E411A /* 约翰福音.txt */,
+				71634FC52D93F6F9007E411A /* 约翰叁书.txt */,
+				71634FC62D93F6F9007E411A /* 约翰壹书.txt */,
 			);
 			path = DZMeBookRead;
 			sourceTree = "<group>";
@@ -657,10 +870,79 @@
 			files = (
 				AF4B3EA52277EAF000CEC375 /* magnifier_1.png in Resources */,
 				AF48FA9D2266D08400850378 /* LaunchScreen.storyboard in Resources */,
+				71634FC72D93F6F9007E411A /* 旧_以西结书.txt in Resources */,
+				71634FC82D93F6F9007E411A /* 旧_约珥书.txt in Resources */,
+				71634FC92D93F6F9007E411A /* 旧_耶利米哀歌.txt in Resources */,
+				71634FCA2D93F6F9007E411A /* 旧_申命记.txt in Resources */,
+				71634FCB2D93F6F9007E411A /* 旧_约书亚记.txt in Resources */,
+				71634FCC2D93F6F9007E411A /* 约翰壹书.txt in Resources */,
+				71634FCD2D93F6F9007E411A /* 旧_约伯记.txt in Resources */,
+				71634FCE2D93F6F9007E411A /* 旧_俄巴底亚书.txt in Resources */,
+				71634FCF2D93F6F9007E411A /* 路加福音.txt in Resources */,
+				71634FD02D93F6F9007E411A /* 旧_但以理书.txt in Resources */,
+				71634FD12D93F6F9007E411A /* 旧_箴言.txt in Resources */,
+				71634FD22D93F6F9007E411A /* 旧_撒母耳记下.txt in Resources */,
+				71634FD32D93F6F9007E411A /* 旧_阿摩司书.txt in Resources */,
+				71634FD42D93F6F9007E411A /* 旧_尼希米记.txt in Resources */,
+				71634FD52D93F6F9007E411A /* 旧_耶利米书.txt in Resources */,
+				71634FD62D93F6F9007E411A /* 马可福音.txt in Resources */,
+				71634FD72D93F6F9007E411A /* 犹大书.txt in Resources */,
+				71634FD82D93F6F9007E411A /* 启示录.txt in Resources */,
+				71634FD92D93F6F9007E411A /* 约翰叁书.txt in Resources */,
+				71634FDA2D93F6F9007E411A /* 腓利门书.txt in Resources */,
+				71634FDB2D93F6F9007E411A /* 雅各书.txt in Resources */,
+				71634FDC2D93F6F9007E411A /* 旧_以赛亚书.txt in Resources */,
+				716350102D93FB65007E411A /* DZMMainCellCell.xib in Resources */,
+				71634FDD2D93F6F9007E411A /* 旧_历代志下.txt in Resources */,
+				71634FDE2D93F6F9007E411A /* 旧_弥迦书.txt in Resources */,
+				71634FDF2D93F6F9007E411A /* 旧_何西阿书.txt in Resources */,
+				71634FE02D93F6F9007E411A /* 约翰福音.txt in Resources */,
+				71634FE12D93F6F9007E411A /* 提多书.txt in Resources */,
+				71634FE22D93F6F9007E411A /* 马太福音.txt in Resources */,
+				71634FE32D93F6F9007E411A /* 约翰贰书.txt in Resources */,
+				71634FE42D93F6F9007E411A /* 旧_那鸿书.txt in Resources */,
+				71634FE52D93F6F9007E411A /* 旧_列王纪上.txt in Resources */,
+				71634FE62D93F6F9007E411A /* 帖撒罗尼迦后书.txt in Resources */,
+				71634FE72D93F6F9007E411A /* 彼得前书.txt in Resources */,
+				71634FE82D93F6F9007E411A /* 提摩太前书.txt in Resources */,
+				7163500A2D93F8E1007E411A /* DirectoryOfFYModel.json in Resources */,
+				71634FE92D93F6F9007E411A /* 希伯来书.txt in Resources */,
+				71634FEA2D93F6F9007E411A /* 旧_出埃及记.txt in Resources */,
+				71634FEB2D93F6F9007E411A /* 旧_创世记.txt in Resources */,
+				71634FEC2D93F6F9007E411A /* 彼得后书.txt in Resources */,
+				71634FED2D93F6F9007E411A /* 旧_玛拉基书.txt in Resources */,
+				71634FEE2D93F6F9007E411A /* 以弗所书.txt in Resources */,
+				71634FEF2D93F6F9007E411A /* 腓立比书.txt in Resources */,
+				71634FF02D93F6F9007E411A /* 帖撒罗尼迦前书.txt in Resources */,
+				71634FF12D93F6F9007E411A /* 歌罗西书.txt in Resources */,
+				71634FF22D93F6F9007E411A /* 旧_利未记.txt in Resources */,
+				71634FF32D93F6F9007E411A /* 旧_雅歌.txt in Resources */,
+				71634FF42D93F6F9007E411A /* 旧_哈巴谷书.txt in Resources */,
+				71634FF52D93F6F9007E411A /* 旧_哈该书.txt in Resources */,
+				71634FF62D93F6F9007E411A /* 旧_撒迦利亚书.txt in Resources */,
+				71634FF72D93F6F9007E411A /* 旧_路得记.txt in Resources */,
+				71634FF82D93F6F9007E411A /* 加拉太书.txt in Resources */,
+				71634FF92D93F6F9007E411A /* 旧_列王纪下.txt in Resources */,
+				71634FFA2D93F6F9007E411A /* 旧_民数记.txt in Resources */,
+				71634FFB2D93F6F9007E411A /* 旧_以斯帖记.txt in Resources */,
+				71634FFC2D93F6F9007E411A /* 罗马书.txt in Resources */,
+				71634FFD2D93F6F9007E411A /* 旧_历代志上.txt in Resources */,
+				71634FFE2D93F6F9007E411A /* 使徒行传.txt in Resources */,
+				71634FFF2D93F6F9007E411A /* 旧_以斯拉记.txt in Resources */,
+				716350002D93F6F9007E411A /* 旧_约拿书.txt in Resources */,
+				716350012D93F6F9007E411A /* 旧_诗篇.txt in Resources */,
+				716350022D93F6F9007E411A /* 旧_撒母耳记上.txt in Resources */,
+				716350032D93F6F9007E411A /* 提摩太后书.txt in Resources */,
+				716350042D93F6F9007E411A /* 旧_士师记.txt in Resources */,
+				716350052D93F6F9007E411A /* 旧_西番雅书.txt in Resources */,
+				716350062D93F6F9007E411A /* 旧_传道书.txt in Resources */,
+				716350072D93F6F9007E411A /* 哥林多前书.txt in Resources */,
+				716350082D93F6F9007E411A /* 哥林多后书.txt in Resources */,
 				AF48FA9A2266D08400850378 /* Assets.xcassets in Resources */,
 				AF5952FE2269D57D007DF477 /* 求魔.txt in Resources */,
 				AF48FACA2266D1A600850378 /* MBProgressHUD.bundle in Resources */,
 				AF203596261EF37100C47E74 /* en.txt in Resources */,
+				71889BD12D92BE040069A490 /* 求魔 2.txt in Resources */,
 				AF4B3EA42277EAF000CEC375 /* magnifier_0.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -713,6 +995,7 @@
 				AF48FB382266FA7600850378 /* DZMPublic.swift in Sources */,
 				AF0A61DD228BF6A400AC6E74 /* DZMReadTextFastParser.swift in Sources */,
 				AF48FB432266FA7600850378 /* DZMReadMenu.swift in Sources */,
+				7163500F2D93FB65007E411A /* DZMMainCellCell.swift in Sources */,
 				AF5306DE226874D60094EFB9 /* DZMRMFontTypeView.swift in Sources */,
 				AF48FB5F22672F8F00850378 /* DZMReadContentView.swift in Sources */,
 				AFF8192324206A8C00C466B4 /* DZMPageViewController.swift in Sources */,
@@ -724,6 +1007,7 @@
 				AF48FAFD2266F53600850378 /* DZMReadConfigure.swift in Sources */,
 				AF48FB482266FB0500850378 /* DZMReadViewController.swift in Sources */,
 				AF48FAF92266F4FC00850378 /* DZMReadController+EffectType.swift in Sources */,
+				7163500C2D93F8F7007E411A /* FYModel.swift in Sources */,
 				AF48FAF12266F36A00850378 /* DZMReadRecordModel.swift in Sources */,
 				AF48FAC92266D1A600850378 /* MBProgressHUD+DZM.m in Sources */,
 				AF48FB422266FA7600850378 /* DZMViewController.swift in Sources */,
@@ -924,9 +1208,9 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WJLDR44R34;
+				DEVELOPMENT_TEAM = YQ2BBNYL5U;
 				INFOPLIST_FILE = DZMeBookRead/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -947,9 +1231,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WJLDR44R34;
+				DEVELOPMENT_TEAM = YQ2BBNYL5U;
 				INFOPLIST_FILE = DZMeBookRead/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

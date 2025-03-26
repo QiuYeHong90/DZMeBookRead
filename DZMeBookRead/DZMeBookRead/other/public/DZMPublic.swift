@@ -29,11 +29,12 @@ let ScreenWidth:CGFloat = UIScreen.main.bounds.size.width
 /// 屏幕高度
 let ScreenHeight:CGFloat = UIScreen.main.bounds.size.height
 
+
 /// TabBar高度
-let TabBarHeight:CGFloat = (IsX ? 83 : 49)
+let TabBarHeight:CGFloat = ((UIApplication.shared.keyWindow?.safeAreaInsets.bottom ?? 0) + 49)
 
 /// StatusBar高度 (IsX ? 44 : 20)
-let StatusBarHeight:CGFloat = (IsX ? 44 : 20)
+let StatusBarHeight:CGFloat = (UIApplication.shared.keyWindow?.safeAreaInsets.top ?? 0 + 20)
 
 /// 导航栏高度
 let NavgationBarHeight:CGFloat = (StatusBarHeight + 44)
